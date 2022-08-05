@@ -1,2 +1,4 @@
 mouse
 teclado
+gabinete
+pen drive
